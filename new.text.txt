@@ -1,1 +1,1 @@
-Need to update GitHub version.
+Welcome, to git and github tutorial.

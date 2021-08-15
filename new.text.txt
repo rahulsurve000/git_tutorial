@@ -1,4 +1,6 @@
 Welcome, to git tutorial.
 -git push origin master.
 -git pull origin master.
+-git config --global user.name "your name"
+-git config --global user.email "your email"
 congrats!

@@ -1,3 +1,4 @@
 Welcome, to git tutorial.
 -git push origin master.
 -git pull origin master.
+congrats!

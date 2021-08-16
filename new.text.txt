@@ -4,4 +4,5 @@ Welcome, to git tutorial.
 -git config --global user.name "your name"
 -git config --global user.email "your email"
 -git repository initialization - git init
+-git all file initialization - git add --a
 congrats!

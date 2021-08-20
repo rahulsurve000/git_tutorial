@@ -7,6 +7,7 @@ Welcome, to git tutorial.
 -git all file initialization - git add --a
 -delete a repository- rm -rf .git
 -git remote add origin "https...."- to add a new repository
+-git clone "repository link"
 -git diff - compares a working dir with staging area.
 -git diff --staged - compares last commit with staging area.
 -git commit -a -m "commit name"- direct commit without staging files

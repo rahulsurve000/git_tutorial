@@ -12,4 +12,5 @@ Welcome, to git tutorial.
 -git diff --staged - compares last commit with staging area.
 -git commit -a -m "commit name"- direct commit without staging files
 -git rm file.ext- to remove/delete a file using git.
+-git mv file.ext renamed.ext- to rename a file.
 congrats!

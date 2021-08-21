@@ -13,4 +13,9 @@ Welcome, to git tutorial.
 -git commit -a -m "commit name"- direct commit without staging files
 -git rm file.ext- to remove/delete a file using git.
 -git mv file.ext renamed.ext- to rename a file.
+-git rm --cached file_name- to untrack a file.
+-git log -p - all info abt commits.
+-git log --pretty=oneline - displays all commits one line by line.
+-git log --pretty=short/full.
+-git log --since=2.days/weeks/months/years - to track a commit on specific day/month.
 congrats!

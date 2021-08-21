@@ -11,4 +11,5 @@ Welcome, to git tutorial.
 -git diff - compares a working dir with staging area.
 -git diff --staged - compares last commit with staging area.
 -git commit -a -m "commit name"- direct commit without staging files
+-git rm file.ext- to remove/delete a file using git.
 congrats!

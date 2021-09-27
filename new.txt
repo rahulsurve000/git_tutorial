@@ -20,4 +20,4 @@ Welcome, to git tutorial.
 -git log --since=2.days/weeks/months/years - to track a commit on specific day/month.
 -git restore --staged file_name - to unstage any file.
 -git checkout --file_name - to retrieve last deleted info from file.
-congrats!
+congrats!!
